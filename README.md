@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-khichar-22bb9027b/?trk=public-profile-join-page" target="blank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit khichar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mohit-khichar-22bb9027b" target="blank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit khichar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
